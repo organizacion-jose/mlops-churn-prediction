@@ -1,6 +1,6 @@
 {
-  "metadata": {
-    "name": "customer-churn-prediction-automation",
+ "metadata": {
+    "name": "customer-churn-prediction-jm",
     "asset_type": "job",
     "origin_country": "us",
     "asset_category": "USER",
